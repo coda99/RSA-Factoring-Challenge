@@ -20,8 +20,8 @@ def prime_factors(n):
             #this checks if i >= the sqrt of n
             if i >= (n ** 0.5):
                 break
-    
-    print(f"{n}={lst[1]}*{lst[0]}")
+    if lst[1] * lst[0] == n:
+        print(f"{n}={lst[1]}*{lst[0]}")
 
 
 if __name__ == "__main__":
