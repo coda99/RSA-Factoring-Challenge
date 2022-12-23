@@ -40,7 +40,12 @@ def prime_factors(n):
             #this checks if i >= the sqrt of n
             if i >= (n ** 0.5):
                 break
+<<<<<<< HEAD
     print(f"{n}={i}*{n//i}")
+=======
+    if lst[1] * lst[0] == n:
+        print(f"{n}={lst[1]}*{lst[0]}")
+>>>>>>> 4c72c41f99f5fb0ce5ef1863a975851a097d4c7b
 
 
 if __name__ == "__main__":
