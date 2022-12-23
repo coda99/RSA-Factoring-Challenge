@@ -6,11 +6,11 @@ def fact(n):
 
     if n < 2:
         return
-    print()
+
     while n % i:
         i += 1
     print("{:.0f}={:.0f}*{:.0f}".format(n, n / i, i))
-    print()
+
 
 if len(argv) != 2:
     exit()
