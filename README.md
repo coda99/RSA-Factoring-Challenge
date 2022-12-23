@@ -6,4 +6,4 @@ You can read more about the challenge here [https://en.wikipedia.org/wiki/RSA_Fa
 I have decided to try writing my algorithm with the Python Programming langauge
 
 ## Authors
-# Andre Obu
+### Andre Obu
