@@ -5,5 +5,5 @@ The task is to write an algorithm that can attempt solving the rsa challange put
 You can read more about the challenge here [https://en.wikipedia.org/wiki/RSA_Factoring_Challenge]
 I have decided to try writing my algorithm with the Python Programming langauge
 
-##Authors
-Andre Obu
+## Authors
+# Andre Obu
